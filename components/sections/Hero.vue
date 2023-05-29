@@ -69,7 +69,7 @@ export default {
           src: 'neve.jpg',
           heading: ' FAST AND CLEAN WORK',
           subHeading:
-            'Com métodos de trabalho otimizados e uma abordagem focada na limpeza do local, garantimos que o projeto seja concluído de forma ágil e sem deixar resíduos indesejados. Nossos profissionais são treinados para executar suas tarefas com rapidez e precisão, sem comprometer a qualidade do trabalho. Conte conosco para um serviço confiável, rápido e limpo em construção em aço.',
+            'With optimized work methods and a focus on site cleanliness, we ensure that projects are completed efficiently and without leaving any unwanted residues. Our professionals are trained to carry out their tasks with speed and precision, without compromising the quality of their work. You can rely on us for a reliable, fast, and clean steel construction service.',
         },
       ],
     }
