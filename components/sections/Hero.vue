@@ -48,7 +48,7 @@ export default {
     return {
       carouselsData: [
         {
-          src: 'pexels-andrea-piacquadio-3884440.jpg',
+          src: 'fase1.jpg',
           heading: ' BUILD YOUR BUSINESS WITH US ',
           subHeading:
             'Summit Steel, a leader in the design, fabrication and installation of high-quality steel structures for the construction ',
@@ -66,7 +66,7 @@ export default {
             'With our state-of-the-art equipment, we are able to execute construction tasks efficiently and with precision. From cutting and shaping steel components to assembling structures, our professionals utilize quality equipment that meets industry standards.',
         },
         {
-          src: 'pexels-andrea-piacquadio-3830745.jpg',
+          src: 'neve.jpg',
           heading: ' FAST AND CLEAN WORK',
           subHeading:
             'Com métodos de trabalho otimizados e uma abordagem focada na limpeza do local, garantimos que o projeto seja concluído de forma ágil e sem deixar resíduos indesejados. Nossos profissionais são treinados para executar suas tarefas com rapidez e precisão, sem comprometer a qualidade do trabalho. Conte conosco para um serviço confiável, rápido e limpo em construção em aço.',
